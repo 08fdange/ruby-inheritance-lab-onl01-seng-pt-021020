@@ -23,3 +23,6 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Dean"
 puts "#{jim.first_name} #{jim.last_name}"
+
+steve.learn(some_knowledge)
+

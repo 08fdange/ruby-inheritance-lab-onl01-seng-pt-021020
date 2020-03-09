@@ -26,3 +26,4 @@ puts "#{jim.first_name} #{jim.last_name}"
 
 steve.learn(some_knowledge)
 
+puts "Steve just learned this important knowledge: '#{steve.knowledge.last}' from Avi"
